@@ -11,3 +11,6 @@
 
 ## Hito 0
 El hito consiste en empezar a hacer un diseño de las tres paginas principales de la app, como son iniciar sesión, hacerse hermano (Registrarse) y también una pantalla principal
+
+## Hito 1
+Pendiente
